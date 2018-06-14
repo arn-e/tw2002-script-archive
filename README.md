@@ -6,10 +6,8 @@ These scripts mostly automate actions in a BBS-era terminal game called Tradewar
 ## Links
 
 ### TWX Proxy
-```
-https://sourceforge.net/projects/twxproxy/
+https://sourceforge.net/projects/twxproxy/  
 http://www.navhaz.com/files/script.html
-```
 
 ### Tradewars 2002
 https://en.wikipedia.org/wiki/Trade_Wars
